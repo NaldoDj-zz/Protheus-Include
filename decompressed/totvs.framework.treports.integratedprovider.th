@@ -1,0 +1,23 @@
+@annotation totvsFrameworkTReportsIntegratedProvider
+    active  as logical
+    team    as character default ''
+    tables  as character default ''
+    name    as character default ''
+    country as character default ''
+    initialRelease as character default '12.1.2310'
+    customTables as character default ''
+@end 
+
+#define IS_ACTIVE_TREPORTS_BUSINESS_OBJECT "active"
+#define TREPORTS_BUSINESS_OBJECT_ANNOTATION_NAME "totvsFrameworkTReportsIntegratedProvider"
+
+#define KEYVALUE 1
+#define LOOKUP 2
+#define LOOKUPQUERY 3
+#define LOOKUPSX5 4
+
+#define nFIELD 1
+#define nSTRUCT 2
+#define nISREQUIRED 3
+#define nDESCRIPTOR 4
+#define nFIELDRETURN 5

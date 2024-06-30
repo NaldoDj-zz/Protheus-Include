@@ -1,0 +1,13 @@
+/*
+	Header : fw-tlpp-core.th
+	Copyright (c) 2021, TOTVS SA
+	All rights reserved.
+*/
+
+#ifndef FW_TLPP_CORE_TH
+#define FW_TLPP_CORE_TH
+
+#include "tlpp-object.th"
+#include "tlpp-rest.th"
+
+#endif /* FW_TLPP_CORE_TH */

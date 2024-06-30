@@ -1,0 +1,12 @@
+/*
+	Header : fw-tlpp-object.th
+	Copyright (c) 2021, TOTVS SA
+	All rights reserved.
+*/
+
+#ifndef FW_TLPP_OBJECT_TH
+#define FW_TLPP_OBJECT_TH
+
+#include "tlpp-object.th"
+
+#endif /* FW_TLPP_OBJECT_TH */
